@@ -4,3 +4,4 @@ file_three.txt
 school_test/test.txt
 # Игнорировать все файлы с расширением .doc
 *.doc
+file_two.txt
