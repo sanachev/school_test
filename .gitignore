@@ -1,0 +1,6 @@
+# Игнорировать файл file_new.
+file_three.txt
+# Игнорировать файл test.txt в директории scholl_test.
+school_test/test.txt
+# Игнорировать все файлы с расширением .doc
+*.doc
